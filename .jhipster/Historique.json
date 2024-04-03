@@ -1,0 +1,21 @@
+{
+  "annotations": {
+    "changelogDate": "20240403190352"
+  },
+  "clientRootFolder": "historical",
+  "databaseType": "sql",
+  "entityTableName": "historique",
+  "fields": [
+    {
+      "fieldName": "request",
+      "fieldType": "String"
+    }
+  ],
+  "microserviceName": "historical",
+  "name": "Historique",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}

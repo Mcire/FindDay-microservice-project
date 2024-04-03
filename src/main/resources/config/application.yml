@@ -171,6 +171,12 @@ spring:
     ansi:
       console-available: true
 
+  #la base de donnee
+  datasource:
+    url: jdbc:mysql://localhost:3306/calendrier_historique
+    username:
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
 server:
   servlet:
     session:
